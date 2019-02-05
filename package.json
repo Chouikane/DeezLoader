@@ -14,13 +14,13 @@
 		"productName": "DeezLoader",
 		"copyright": "Copyright © 2018 ExtendLord",
 		"asar": false,
-		"win":{
+		"win": {
 			"icon": "res/icon.ico"
 		},
-		"linux":{
+		"linux": {
 			"target": "AppImage"
 		},
-		"mac":{
+		"mac": {
 			"icon": "res/icon.icns"
 		},
 		"nsis": {
